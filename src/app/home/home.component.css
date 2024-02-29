@@ -2,3 +2,12 @@
     max-width: 900px;
     margin-inline: auto;
 }
+
+.header h1 {
+    color: #022D63;
+}
+
+.get-started{
+    font-family: Inter, sans-serif;
+    background-color: #022D63;
+}
